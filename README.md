@@ -6,7 +6,7 @@ Web Developer
 
 * 🌍  I'm based in Haryana, India
 * ✉️  You can contact me at [ryvinder@gmail.com](mailto:ryvinder@gmail.com)
-* 🧠  I'm learning Java, CSS
+* 🧠  I'm learning Java, JavaScript
 * 🤝  I'm open to collaborating on web projects
 * ⚡  I'm volleyball team captain at NITJ
 
